@@ -1,0 +1,7 @@
+{
+"info version":"2.0"
+,"firmware version":"H22.01.02.30.00"
+,"wifi mac":"2474f7d1f145"
+,"camera type":"HERO11 Black"
+,"camera serial number":"C3471325892971"
+}
